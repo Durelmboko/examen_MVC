@@ -1,0 +1,7 @@
+RewriteEngine On
+
+
+RewriteRule ^accueil$ index.php
+
+
+
